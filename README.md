@@ -1,7 +1,7 @@
 # MasterRepo
 
-## Forked from Jon Luca
-## Additional Credits: 
+# Forked from Jon Luca
+# Additional Credits: 
 - @HomemadeToast57 https://repo.packix.com/package/com.HomemadeToast.RepoFinder/
 
 
