@@ -12,7 +12,7 @@ deb http://apt.dummysprite.com/ ./
 deb http://apt.golddavid.com/ ./
 deb http://apt.iolate.kr/ ./
 deb http://apt.iphonemodding.com/ ./
-deb http://apt.modmyi.com/ ./
+# deb http://apt.modmyi.com/ ./						#(CoreRepo)
 deb http://apt.mootjeuh.com/ ./
 deb http://apt.othman.tech/ ./
 deb http://apt.philippe97.ca/ ./
@@ -72,7 +72,7 @@ deb http://getdelta.co/ ./
 deb http://gmoran.me/repo/ ./
 deb http://hacx.org/repo/ ./
 deb http://henrikssonbrothers.com/cydia/repo/ ./
-deb http://hex-lab.com/repo/ ./
+# deb http://hex-lab.com/repo/ ./			#NODATA Error
 deb http://hitoriblog.com/apt/ ./
 deb http://i.danstaface.net/deb/ ./
 deb http://imo7and.store/ ./
@@ -116,7 +116,7 @@ deb http://repo.4nni3.com/ ./
 deb http://repo.alexzielenski.com/ ./
 deb http://repo.ammaripa.com/ ./
 deb http://repo.amriel.com/ ./
-deb http://repo.bingner.com/ ./
+deb http://repo.bingner.com/ ./			#Bingner?
 deb http://repo.bonventre.ch/ ./
 deb http://repo.bytafont.com/latest/ ./
 deb http://repo.co.kr/ ./
@@ -132,7 +132,7 @@ deb http://repo.k3v.co.uk/ ./
 deb http://repo.kid1car.us/ ./
 deb http://repo.kritanta.me/ ./
 deb http://repo.midnight.team/ ./
-deb http://repo.midnightchips.me/sileo-begone/ ./
+# deb http://repo.midnightchips.me/sileo-begone/ ./			#Sileo
 deb http://repo.my-cydia-ig.de/ ./
 deb http://repo.nesolabs.de/ ./
 deb http://repo.nullpixel.uk/ ./
@@ -159,7 +159,7 @@ deb http://squ1dd13.tk/repo/ ./
 deb http://subdiox.com/cydia/ ./
 deb http://submanifold.be/cydia/ ./
 deb http://subscriber.cpdigitaldarkroom.com/repo/ ./
-deb http://system.in-appstore.com/repo/ ./
+# deb http://system.in-appstore.com/repo/ ./			#NODATA Error
 deb http://takamii.com/cydia/ ./
 deb http://tateu.net/repo/ ./
 deb http://telaaedifex.com/devrepo/ ./
@@ -175,7 +175,7 @@ deb http://www.iarrays.com/apt/ ./
 deb http://wynd07.appspot.com/r7/ ./
 deb http://xcon.crazy.net/ ./
 deb http://xenpublic.incendo.ws/ ./
-deb http://xnu.science/repo/ ./
+# deb http://xnu.science/repo/ ./						#MISC?
 deb http://yaypixxo.com/ ./
 deb https://0xkuj.github.io/kujman/ ./
 deb https://19card.github.io/repo/ ./
@@ -286,7 +286,7 @@ deb https://cvenos.github.io/opticity/ ./
 deb https://cydia-jailbreak.github.io/ ./
 deb https://cydia.angelxwind.net/ ./
 # deb https://cydia.angelxwind.net/beta/ ./			#(Beta Repo)
-deb https://cydia.f0u4d.com/ ./
+# deb https://cydia.f0u4d.com/ ./					#NODATA Error
 # deb https://cydia.hbang.ws/ ./					# (Core Repo)
 deb https://cydia.invoxiplaygames.uk/beta/ ./
 deb https://cydia.jukben.cz/ ./
@@ -359,10 +359,10 @@ deb https://heftjohnson.github.io/ ./
 deb https://hieplpvip.github.io/cydia/ ./
 deb https://hikohub.github.io/ ./
 deb https://hqhrepo.github.io/ ./
-deb https://hucd.coding.me/repo/ ./
+# deb https://hucd.coding.me/repo/ ./				#NODATA Error
 deb https://hydridev.github.io/repo/ ./
 deb https://iamgasgass.github.io/iamgasgass/ ./
-deb https://iamjamieq.github.io/repo/ ./
+# deb https://iamjamieq.github.io/repo/ ./			#Faulty Package File
 deb https://iApeiron.github.io/ ./
 deb https://ib-soft.net/cydia/ ./
 # deb https://ib-soft.net/cydia/beta/ ./ 			#(Beta Repo)
@@ -411,7 +411,7 @@ deb https://klutchkyle.com/ ./
 deb https://klutchkyle.github.io/ ./
 deb https://kotyanlife.info/cydiarepo/ ./
 deb https://kpwnz.github.io/Cydia/ ./
-deb https://kunderscore.gitlab.io/personalrepo/ ./
+# deb https://kunderscore.gitlab.io/personalrepo/ ./	#NODATA Error
 deb https://kunderscore.gitlab.io/repo/ ./
 deb https://kurrt.com/repo/ ./
 deb https://LacertosusRepo.github.io/ ./
@@ -440,7 +440,7 @@ deb https://marcgrey.github.io/ ./
 deb https://MarcoIanne.github.io/ ./
 deb https://maskman007.github.io/pubg/ ./
 deb https://maskman007.github.io/pubg_vip/ ./
-deb https://matteozappia.github.io/repo/ ./
+# deb https://matteozappia.github.io/repo/ ./				#NODATA Error
 deb https://matteyeux.com/cydia/ ./
 deb https://mattraus.github.io/ ./
 deb https://maxarmin.github.io/ ./
@@ -517,12 +517,12 @@ deb https://remyla31.github.io/ ./
 deb https://repo.applebetas.co/ ./
 deb https://repo.avalon-studios.de/ ./
 deb https://repo.carsuki.moe/ ./
-deb https://repo.chimera.sh/ ./
-deb https://repo.chimera.sh/bsdutils/ ./
+# deb https://repo.chimera.sh/ ./				#ChimeraRepo
+# deb https://repo.chimera.sh/bsdutils/ ./		#ChimeraRepo
 deb https://repo.d4ni.nl/ ./
 deb https://repo.daus.ch/ ./
 deb https://repo.dave1482.com/ ./
-deb https://repo.dongo.pro/ ./
+# deb https://repo.dongo.pro/ ./				#(CocaTop Conflict)
 deb https://repo.dozenzb.com/ ./
 deb https://repo.dreamnet.at/ ./
 # deb https://repo.dynastic.co/ ./				# (Core Repo)
@@ -600,7 +600,7 @@ deb https://s3ud-alshaman.github.io/cydia/ ./
 deb https://saj0vie.github.io/ ./
 deb https://samgisaninja.github.io/ ./
 deb https://samgisaninja.github.io/repo/ ./
-deb https://samgisaninja.github.io/test/ ./
+# deb https://samgisaninja.github.io/test/ ./			#(Beta Repo)
 deb https://samplasion.github.io/cydia/ ./
 deb https://san3ar.github.io/ ./
 deb https://sarim.github.io/cydia/ ./
@@ -649,7 +649,7 @@ deb https://synnygr.dev/repo/ ./
 deb https://tapsharp.github.io/ ./
 deb https://tdmd.github.io/ ./
 deb https://telaaedifex.com/repo/ ./
-deb https://test.apt.bingner.com/ ./
+# deb https://test.apt.bingner.com/ ./				#(Beta Repo)
 deb https://the-casle.github.io/cydia/ ./
 deb https://the-casle.github.io/public/ ./
 deb https://thelone3agle.github.io/ ./
@@ -657,7 +657,7 @@ deb https://themaanas.github.io/ ./
 deb https://thenatis.github.io/repo/ ./
 deb https://thenightmancodeth.github.io/repo/ ./
 deb https://theonlygermanguy.github.io/repo/ ./
-deb https://TheRasPiGuy.github.io/ ./
+# deb https://TheRasPiGuy.github.io/ ./				#Faulty Package File
 deb https://thestrugglingdoge.github.io/repo/ ./
 deb https://thewaytozion.github.io/ ./
 deb https://thomz07.github.io/ ./
