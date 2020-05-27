@@ -7,20 +7,19 @@
 
 
 
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
 
-
-
-
-
-
-
-
-
-
-
-
-
--
+Luca's Readme;
 ## About
 This is a collection of the most popular and used sources in Cydia as of 3/15/2018
 
