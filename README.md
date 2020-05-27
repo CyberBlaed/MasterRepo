@@ -1,7 +1,7 @@
 # MasterRepo
 
-# Forked from Jon Luca
-# Additional Credits: 
+### Forked from Jon Luca
+### Additional Credits: 
 - @HomemadeToast57 https://repo.packix.com/package/com.HomemadeToast.RepoFinder/
 
 
@@ -20,7 +20,7 @@
 
 
 
-
+-
 ## About
 This is a collection of the most popular and used sources in Cydia as of 3/15/2018
 
