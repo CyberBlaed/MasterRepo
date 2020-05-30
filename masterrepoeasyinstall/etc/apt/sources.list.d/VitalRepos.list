@@ -3,33 +3,42 @@ deb http://cydia.ichitaso.com/ ./
 deb http://hacx.org/repo/ ./
 deb http://ib-soft.net/cydia/ ./
 deb http://incendo.ws/repo/ ./
-deb http://junesiphone.com/repo/ ./
 deb http://junesiphone.com/supersecret/ ./
 deb http://limneos.net/repo/ ./
-deb http://repo.incendo.ws/ ./
 deb http://repo.co.kr/ ./
 deb http://repo.pixelomer.com/ ./
 deb http://rpetri.ch/repo/ ./
+deb https://revulate.dev/ ./
 deb http://tigisoftware.com/cydia/ ./
+deb http://repo.ziph0n.com/ ./
 deb https://aeonlucid.com/cydia/ ./
 deb https://alexpng.github.io/Nepeta-Mirror/ ./
 deb https://apt.alfhaily.me/ ./
 deb https://apt.arx8x.net/ ./
+deb https://apt.iarrays.com/ ./
 deb https://cokepokes.github.io/ ./
 deb https://creaturecoding.com/repo/ ./
 deb https://creaturesurvive.github.io/ ./
 deb https://cydia.akemi.ai/ ./
+deb https://cydia.ceadd.ca/ ./
 deb https://dpkg9510.github.io/ ./
+deb https://greg0109.yourepo.com/ ./
+deb https://www.icaughtuapp.com/repo ./
+deb https://johnzaro.github.io/repo/ ./
 deb https://julio.hackyouriphone.org/ ./
 deb https://julioverne.github.io/ ./
+
+# deb https://junesiphone.com/repo/ ./
+
 deb https://kurrt.com/repo/ ./
 deb https://level3tjg.xyz/repo/ ./
+deb https://meblackhat.github.io/ ./
 deb https://opa334.github.io/ ./
 deb https://poomsmart.github.io/repo/ ./
+deb https://r0wdrunner.github.io/repo/ ./
 deb https://repo.conorthedev.me/ ./
 deb https://repo.linusyang.com/ ./
 deb https://repo.litten.love/ ./
-deb https://repo.rpgfarm.com/ ./
 deb https://repo.twickd.com/ ./
 deb https://ryleyangus.com/repo/ ./
 deb https://samgisaninja.github.io/ ./
@@ -37,5 +46,8 @@ deb https://shiftcmdk.github.io/repo/ ./
 deb https://sparkdev.me/ ./
 deb https://www.yourepo.com/ ./
 
-
-
+#Stores
+deb https://apptapp.me/repo/ ./
+deb https://getzbra.com/repo/ ./
+# deb https://repo.getsileo.app/ ./
+deb http://Cydia.iPhoneCake.com/ ./

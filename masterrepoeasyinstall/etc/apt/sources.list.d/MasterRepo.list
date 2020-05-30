@@ -286,6 +286,7 @@ deb https://cvenos.github.io/opticity/ ./
 deb https://cydia-jailbreak.github.io/ ./
 deb https://cydia.angelxwind.net/ ./
 # deb https://cydia.angelxwind.net/beta/ ./			#(Beta Repo)
+deb https://cydia.ceadd.ca/ ./
 # deb https://cydia.f0u4d.com/ ./					#NODATA Error
 # deb https://cydia.hbang.ws/ ./					# (Core Repo)
 deb https://cydia.invoxiplaygames.uk/beta/ ./
@@ -346,6 +347,7 @@ deb https://geosn0w.github.io/cloud9/repo/ ./
 deb https://getsileo.app/ ./
 # deb https://getzbra.com/beta/ ./					#(Beta Repo)
 deb https://gilesgc.github.io/repo/ ./
+deb https://greg0109.yourepo.com/ ./
 deb https://gsquared.io/repo/ ./
 deb https://gstpsk.github.io/cydia/ ./
 deb https://h6nry.github.io/repo/ ./
@@ -366,6 +368,7 @@ deb https://iamgasgass.github.io/iamgasgass/ ./
 deb https://iApeiron.github.io/ ./
 deb https://ib-soft.net/cydia/ ./
 # deb https://ib-soft.net/cydia/beta/ ./ 			#(Beta Repo)
+deb https://www.icaughtuapp.com/repo ./
 deb https://icrazeios.github.io/A12-Forks/Repo/ ./
 deb https://icrazeios.github.io/repo/ ./
 deb https://idevicehacked.com/ ./
@@ -391,12 +394,14 @@ deb https://jeremd10.github.io/ ./
 deb https://jesperflodin1.github.io/ ./
 deb https://jinwk00.github.io/ ./
 deb https://joemerlino.github.io/repo/ ./
+deb https://johnzaro.github.io/repo/ ./
 deb https://joker2gun.github.io/ ./
 deb https://jonlu.ca/repo/ ./
 deb https://jordao-net.com/repo/ ./
 deb https://jose905.github.io/ ./
 deb https://joshtv.net/repo/ ./
 deb https://julioverne.github.io/ ./
+deb https://julio.hackyouriphone.org/ ./
 deb https://kanam.me/repo/ ./
 deb https://karimo299.github.io/repo/ ./
 deb https://kdog0598.github.io/ ./
@@ -424,7 +429,7 @@ deb https://leftyfl1p.github.io/ ./
 deb https://legitcomputerwhisperer.github.io/ ./
 deb https://leroy-b.github.io/home/repo/ ./
 deb https://level3tjg.github.io/ ./
-deb https://level3tjg.github.io/beta/ ./
+# deb https://level3tjg.github.io/beta/ ./				#(Beta Repo)
 deb https://level3tjg.xyz/repo/ ./
 deb https://lgariv.github.io/LaVie/ ./
 deb https://lily.toys/repo/ ./
@@ -445,6 +450,7 @@ deb https://matteyeux.com/cydia/ ./
 deb https://mattraus.github.io/ ./
 deb https://maxarmin.github.io/ ./
 deb https://maybeme.fr/ ./
+deb https://meblackhat.github.io/ ./
 deb https://mcapollo.github.io/Public/ ./
 deb https://mchamp90.github.io/ ./
 deb https://mdean808.github.io/repo/ ./
@@ -578,6 +584,7 @@ deb https://repo.va2ron1.com/ ./
 deb https://repo.yobur.xyz/ ./
 deb https://repo.zestlabs.me/ ./
 deb https://revulate.github.io/ ./
+deb https://revulate.dev/ ./
 deb https://Ricklantis.github.io/repo/ ./
 deb https://ridn.github.io/repo/ ./
 deb https://ridn.me/repo/ ./
