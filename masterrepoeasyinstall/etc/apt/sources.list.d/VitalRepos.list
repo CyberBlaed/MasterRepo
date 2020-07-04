@@ -1,3 +1,4 @@
+deb https://alexpng.github.io/ ./
 deb http://cydia.alexbeals.com/ ./
 deb http://cydia.ichitaso.com/ ./
 deb http://hacx.org/repo/ ./
@@ -39,6 +40,7 @@ deb https://r0wdrunner.github.io/repo/ ./
 deb https://repo.conorthedev.me/ ./
 deb https://repo.linusyang.com/ ./
 deb https://repo.litten.love/ ./
+deb https://repo.p0358.net/ ./
 deb https://repo.twickd.com/ ./
 deb https://ryleyangus.com/repo/ ./
 deb https://samgisaninja.github.io/ ./
@@ -51,3 +53,4 @@ deb https://apptapp.me/repo/ ./
 deb https://getzbra.com/repo/ ./
 # deb https://repo.getsileo.app/ ./
 deb http://Cydia.iPhoneCake.com/ ./
+deb https://repo.community/ ./

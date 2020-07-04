@@ -71,6 +71,7 @@ deb http://gammalevel.com/cydia/ ./
 deb http://getdelta.co/ ./
 deb http://gmoran.me/repo/ ./
 deb http://hacx.org/repo/ ./
+deb https://haoict.github.io/cydia/ ./
 deb http://henrikssonbrothers.com/cydia/repo/ ./
 # deb http://hex-lab.com/repo/ ./			#NODATA Error
 deb http://hitoriblog.com/apt/ ./
@@ -256,6 +257,7 @@ deb https://cambgiles.github.io/ ./
 deb https://cammmpw.github.io/repo/ ./
 deb https://cantekim.github.io/ ./
 deb https://captainpoprocks.github.io/ ./
+deb https://captinc.me/ ./
 deb https://captinc37.github.io/repo/ ./
 deb https://carbondevstudio.github.io/ ./
 deb https://carloztech.github.io/ ./
@@ -356,6 +358,7 @@ deb https://hajime4th.github.io/ ./
 deb https://hakase.io/repo/ ./
 deb https://halo-michael.github.io/repo/ ./
 deb https://hamzaipa.github.io/sh/ ./
+deb https://haoict.github.io/cydia/ ./
 deb https://happy.planet.ee/ ./
 deb https://heftjohnson.github.io/ ./
 deb https://hieplpvip.github.io/cydia/ ./
@@ -558,6 +561,7 @@ deb https://repo.mtac.app/ ./
 deb https://repo.opendebs.com/ ./
 deb https://repo.oskar.wirga.com/ ./
 deb https://repo.ouraigua.com/ ./
+deb https://repo.p0358.net/ ./
 # deb https://repo.packix.com/ ./				# (Repo to Avoid)
 deb https://repo.paz.yt/ ./
 deb https://repo.rbtdigital.com/ ./
