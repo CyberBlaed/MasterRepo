@@ -508,6 +508,7 @@ deb https://paxcex.github.io/ ./
 deb https://perrycucko.github.io/ ./
 deb https://peterprd.github.io/nightly/ ./
 deb https://petitstrawberry.github.io/cydia/ ./
+deb https://pheuxdev.github.io/repo/ ./
 deb https://pikabucydia.github.io/ ./
 deb https://pillowbear.github.io/ ./
 deb https://pinpal.github.io/ ./

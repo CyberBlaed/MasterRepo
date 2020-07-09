@@ -35,6 +35,7 @@ deb https://kurrt.com/repo/ ./
 deb https://level3tjg.xyz/repo/ ./
 deb https://meblackhat.github.io/ ./
 deb https://opa334.github.io/ ./
+deb https://pheuxdev.github.io/repo/ ./
 deb https://poomsmart.github.io/repo/ ./
 deb https://r0wdrunner.github.io/repo/ ./
 deb https://repo.conorthedev.me/ ./
