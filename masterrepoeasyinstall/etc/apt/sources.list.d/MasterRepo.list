@@ -203,6 +203,7 @@ deb https://ammaripa.com/repo/ ./
 deb https://amooose.github.io/repo/ ./
 deb https://andreashenriksson.se/repo/ ./
 deb https://antiquedev.github.io/ ./
+deb https://antiquebeta.github.io/getpopcorn.app/ ./	#Beta/Popcorn
 deb https://anvem.top/ ./
 deb https://anwarvip.github.io/3rab/ ./
 deb https://applevegas.github.io/ ./
@@ -397,7 +398,7 @@ deb https://jeremd10.github.io/ ./
 deb https://jesperflodin1.github.io/ ./
 deb https://jinwk00.github.io/ ./
 deb https://joemerlino.github.io/repo/ ./
-deb https://johnzaro.github.io/repo/ ./
+deb https://johnzaro.github.io/cydia/ ./
 deb https://joker2gun.github.io/ ./
 deb https://jonlu.ca/repo/ ./
 deb https://jordao-net.com/repo/ ./
