@@ -706,6 +706,7 @@ deb https://willbraffman.github.io/cydia/ ./
 deb https://williammuff.github.io/repo/ ./
 deb https://wolfposd.github.io/ ./
 deb https://worksbybbs.github.io/ ./
+deb https://wrp1002.github.io/ ./
 deb https://www.yourepo.com/ ./
 deb https://wynd07.com/r7/ ./
 deb https://x7rb.github.io/ ./

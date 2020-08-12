@@ -1,4 +1,5 @@
 deb https://alexpng.github.io/ ./
+deb https://artikushg.github.io/ ./
 deb http://cydia.alexbeals.com/ ./
 deb http://cydia.ichitaso.com/ ./
 deb http://hacx.org/repo/ ./
@@ -48,6 +49,7 @@ deb https://samgisaninja.github.io/ ./
 deb https://shiftcmdk.github.io/repo/ ./
 deb https://sparkdev.me/ ./
 deb https://www.yourepo.com/ ./
+deb https://wrp1002.github.io/ ./
 
 #Stores
 deb https://apptapp.me/repo/ ./
