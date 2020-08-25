@@ -527,6 +527,7 @@ deb https://redzrex.github.io/ ./
 deb https://remyla31.github.io/ ./
 deb https://repo.applebetas.co/ ./
 deb https://repo.avalon-studios.de/ ./
+deb https://repo.basepack.co/ ./
 deb https://repo.carsuki.moe/ ./
 # deb https://repo.chimera.sh/ ./				#ChimeraRepo
 # deb https://repo.chimera.sh/bsdutils/ ./		#ChimeraRepo
@@ -566,6 +567,7 @@ deb https://repo.ouraigua.com/ ./
 deb https://repo.p0358.net/ ./
 # deb https://repo.packix.com/ ./				# (Repo to Avoid)
 deb https://repo.paz.yt/ ./
+deb https://repo.rafferli.com/ ./
 deb https://repo.rbtdigital.com/ ./
 deb https://repo.rpgfarm.com/ ./
 deb https://repo.rubie.me/ ./

@@ -39,14 +39,17 @@ deb https://opa334.github.io/ ./
 deb https://pheuxdev.github.io/repo/ ./
 deb https://poomsmart.github.io/repo/ ./
 deb https://r0wdrunner.github.io/repo/ ./
+deb https://repo.basepack.co/ ./
 deb https://repo.conorthedev.me/ ./
 deb https://repo.linusyang.com/ ./
 deb https://repo.litten.love/ ./
 deb https://repo.p0358.net/ ./
+deb https://repo.rafferli.com/ ./
 deb https://repo.twickd.com/ ./
 deb https://ryleyangus.com/repo/ ./
 deb https://samgisaninja.github.io/ ./
 deb https://shiftcmdk.github.io/repo/ ./
+deb https://skitty.xyz/repo/ ./
 deb https://sparkdev.me/ ./
 deb https://www.yourepo.com/ ./
 deb https://wrp1002.github.io/ ./
