@@ -51,6 +51,7 @@ deb https://samgisaninja.github.io/ ./
 deb https://shiftcmdk.github.io/repo/ ./
 deb https://skitty.xyz/repo/ ./
 deb https://sparkdev.me/ ./
+deb https://udevsharold.github.io/repo/ ./
 deb https://www.yourepo.com/ ./
 deb https://wrp1002.github.io/ ./
 
