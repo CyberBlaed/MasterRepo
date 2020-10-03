@@ -20,7 +20,7 @@ deb http://apt.philippe97.ca/ ./
 ## deb http://apt.saurik.com/beta/cy-impactor/ ./	#(Anti-Compeditive Dev)
 ## deb http://apt.saurik.com/beta/cydia-arm64/ ./ 	#(Anti-Compeditive Dev)
 deb http://apt.steverolfe.com/ ./
-# deb http://apt.thebigboss.org/repofiles/cydia/ ./ #(Core Repo) 
+# deb http://apt.thebigboss.org/repofiles/cydia/ ./ #(Core Repo)
 deb http://apt.zntx.cc/ ./
 deb http://bananastudios.de/repo/ ./
 deb http://bandarhl.xrepo.co/ ./
@@ -446,6 +446,7 @@ deb https://lumartti.github.io/ ./
 deb https://ma3dhr0s.github.io/ ./
 deb https://mac-user669.github.io/repo/ ./
 deb https://marcgrey.github.io/ ./
+deb https://mainrepo.org/ ./
 deb https://MarcoIanne.github.io/ ./
 deb https://maskman007.github.io/pubg/ ./
 deb https://maskman007.github.io/pubg_vip/ ./
