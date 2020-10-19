@@ -23,22 +23,31 @@ deb https://creaturecoding.com/repo/ ./
 deb https://creaturesurvive.github.io/ ./
 deb https://cydia.akemi.ai/ ./
 deb https://cydia.ceadd.ca/ ./
+
 deb https://dpkg9510.github.io/ ./
+
 deb https://greg0109.yourepo.com/ ./
+
 deb https://www.icaughtuapp.com/repo ./
+
 deb https://johnzaro.github.io/cydia/ ./
 deb https://julio.hackyouriphone.org/ ./
 deb https://julioverne.github.io/ ./
-
-# deb https://junesiphone.com/repo/ ./
+deb https://junesiphone.com/repo/ ./
 
 deb https://kurrt.com/repo/ ./
+
 deb https://level3tjg.xyz/repo/ ./
+
 deb https://meblackhat.github.io/ ./
+
 deb https://opa334.github.io/ ./
+
 deb https://pheuxdev.github.io/repo/ ./
 deb https://poomsmart.github.io/repo/ ./
+
 deb https://r0wdrunner.github.io/repo/ ./
+deb https://repo.anthopak.dev/ ./
 deb https://repo.basepack.co/ ./
 deb https://repo.conorthedev.me/ ./
 deb https://repo.linusyang.com/ ./
@@ -47,10 +56,12 @@ deb https://repo.p0358.net/ ./
 deb https://repo.rafferli.com/ ./
 deb https://repo.twickd.com/ ./
 deb https://ryleyangus.com/repo/ ./
+
 deb https://samgisaninja.github.io/ ./
 deb https://shiftcmdk.github.io/repo/ ./
 deb https://skitty.xyz/repo/ ./
 deb https://sparkdev.me/ ./
+
 deb https://udevsharold.github.io/repo/ ./
 deb https://www.yourepo.com/ ./
 deb https://wrp1002.github.io/ ./

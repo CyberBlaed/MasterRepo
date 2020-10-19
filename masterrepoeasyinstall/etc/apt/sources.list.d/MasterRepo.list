@@ -409,6 +409,7 @@ deb https://julio.hackyouriphone.org/ ./
 deb https://kanam.me/repo/ ./
 deb https://karimo299.github.io/repo/ ./
 deb https://kdog0598.github.io/ ./
+deb https://kfur.github.io/ ./
 deb https://khafradev.github.io/ ./
 deb https://kid1carus.github.io/repo/ ./
 deb https://kiengk0eng.github.io/ ./
