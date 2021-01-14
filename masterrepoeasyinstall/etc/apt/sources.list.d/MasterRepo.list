@@ -465,6 +465,7 @@ deb https://menardiosdesigns.github.io/repo/ ./
 deb https://messier.app/cydia/ ./
 deb https://micahpgomez.dev/repo/ ./
 deb https://midcoreboot.github.io/ ./
+deb https://miro92.com/repo/ ./
 deb https://mirrors.xbmc.org/apt/ios/ ./
 deb https://misterapple.github.io/r0m1xrepository/ ./
 deb https://mologie.github.io/repo/ ./

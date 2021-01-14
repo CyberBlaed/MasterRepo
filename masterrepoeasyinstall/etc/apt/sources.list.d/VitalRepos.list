@@ -40,6 +40,7 @@ deb https://kurrt.com/repo/ ./
 deb https://level3tjg.xyz/repo/ ./
 
 deb https://meblackhat.github.io/ ./
+deb https://miro92.com/repo/ ./
 deb https://myxxdev.github.io/ ./
 deb https://opa334.github.io/ ./
 
