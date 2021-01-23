@@ -345,6 +345,7 @@ deb https://froztz.gitlab.io/cydia/ ./
 deb https://funsksa.github.io/ ./
 deb https://furoso.github.io/ ./
 deb https://futur3sn0w.github.io/repo/ ./
+deb https://galactic-dev.github.io/ ./
 deb https://gebeto.github.io/repo/ ./
 deb https://geosn0w.github.io/cloud9/repo/ ./
 deb https://getsileo.app/ ./

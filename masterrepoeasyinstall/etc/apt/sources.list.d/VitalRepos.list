@@ -26,6 +26,7 @@ deb https://cydia.ceadd.ca/ ./
 
 deb https://dpkg9510.github.io/ ./
 
+deb https://galactic-dev.github.io/ ./
 deb https://greg0109.yourepo.com/ ./
 
 deb https://www.icaughtuapp.com/repo ./
