@@ -51,6 +51,7 @@ deb https://poomsmart.github.io/repo/ ./
 deb https://r0wdrunner.github.io/repo/ ./
 deb https://repo.anthopak.dev/ ./
 deb https://repo.basepack.co/ ./
+deb https://repo.cadoth.net/ ./
 deb https://repo.conorthedev.me/ ./
 deb https://repo.linusyang.com/ ./
 deb https://repo.litten.love/ ./
