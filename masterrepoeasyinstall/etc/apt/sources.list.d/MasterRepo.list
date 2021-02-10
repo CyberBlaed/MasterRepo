@@ -533,6 +533,7 @@ deb https://remyla31.github.io/ ./
 deb https://repo.applebetas.co/ ./
 deb https://repo.avalon-studios.de/ ./
 deb https://repo.basepack.co/ ./
+deb https://repo.cadoth.net/ ./
 deb https://repo.carsuki.moe/ ./
 # deb https://repo.chimera.sh/ ./				#ChimeraRepo
 # deb https://repo.chimera.sh/bsdutils/ ./		#ChimeraRepo
