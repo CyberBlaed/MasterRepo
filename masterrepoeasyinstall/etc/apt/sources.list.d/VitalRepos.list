@@ -64,6 +64,7 @@ deb https://samgisaninja.github.io/ ./
 deb https://shiftcmdk.github.io/repo/ ./
 deb https://skitty.xyz/repo/ ./
 deb https://sparkdev.me/ ./
+deb https://spicat.github.io/ ./
 
 deb https://udevsharold.github.io/repo/ ./
 deb https://www.yourepo.com/ ./
@@ -73,5 +74,5 @@ deb https://wrp1002.github.io/ ./
 deb https://apptapp.me/repo/ ./
 deb https://getzbra.com/repo/ ./
 # deb https://repo.getsileo.app/ ./
-deb http://Cydia.iPhoneCake.com/ ./
-deb https://repo.community/ ./
+# deb http://Cydia.iPhoneCake.com/ ./
+# deb https://repo.community/ ./
