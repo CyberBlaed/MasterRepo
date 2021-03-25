@@ -30,6 +30,7 @@ deb https://galactic-dev.github.io/ ./
 deb https://greg0109.yourepo.com/ ./
 
 deb https://www.icaughtuapp.com/repo ./
+deb https://isecureos.idevicecentral.com/repo/ ./
 
 deb https://johnzaro.github.io/cydia/ ./
 deb https://julio.hackyouriphone.org/ ./
