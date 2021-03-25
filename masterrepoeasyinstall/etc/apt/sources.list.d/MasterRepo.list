@@ -385,6 +385,7 @@ deb https://ios.jeffsjunk.co.uk/ ./
 deb https://ios.jjolano.me/ ./
 deb https://ioshacker.github.io/ ./
 deb https://iostonykraft.github.io/ ./
+deb https://isecureos.idevicecentral.com/repo/ ./
 deb https://itrickzgg.github.io/ ./
 deb https://itsjafer.com/repo/ ./
 deb https://jailb.re/ak/ ./
