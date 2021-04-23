@@ -449,7 +449,7 @@ deb https://lumartti.github.io/ ./
 deb https://ma3dhr0s.github.io/ ./
 deb https://mac-user669.github.io/repo/ ./
 deb https://marcgrey.github.io/ ./
-deb https://mainrepo.org/ ./
+# deb https://mainrepo.org/ ./                  #Pirate Repo
 deb https://MarcoIanne.github.io/ ./
 deb https://maskman007.github.io/pubg/ ./
 deb https://maskman007.github.io/pubg_vip/ ./
