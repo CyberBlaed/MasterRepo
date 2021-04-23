@@ -1,7 +1,6 @@
 deb https://alexpng.github.io/ ./
 deb https://artikushg.github.io/ ./
 deb http://cydia.alexbeals.com/ ./
-deb http://cydia.ichitaso.com/ ./
 deb http://hacx.org/repo/ ./
 deb http://ib-soft.net/cydia/ ./
 deb http://incendo.ws/repo/ ./
@@ -9,10 +8,11 @@ deb http://junesiphone.com/supersecret/ ./
 deb http://limneos.net/repo/ ./
 deb http://repo.co.kr/ ./
 deb http://repo.pixelomer.com/ ./
-deb http://rpetri.ch/repo/ ./
-deb https://revulate.dev/ ./
-deb http://tigisoftware.com/cydia/ ./
 deb http://repo.ziph0n.com/ ./
+deb http://rpetri.ch/repo/ ./
+deb http://tigisoftware.com/cydia/ ./
+
+deb https://revulate.dev/ ./
 deb https://aeonlucid.com/cydia/ ./
 deb https://alexpng.github.io/Nepeta-Mirror/ ./
 deb https://apt.alfhaily.me/ ./
@@ -23,11 +23,12 @@ deb https://creaturecoding.com/repo/ ./
 deb https://creaturesurvive.github.io/ ./
 deb https://cydia.akemi.ai/ ./
 deb https://cydia.ceadd.ca/ ./
+deb https://cydia.ichitaso.com/ ./
 
 deb https://dpkg9510.github.io/ ./
 
 deb https://galactic-dev.github.io/ ./
-deb https://greg0109.yourepo.com/ ./
+deb https://greg0109.github.io/repo/ ./
 
 deb https://www.icaughtuapp.com/repo ./
 deb https://isecureos.idevicecentral.com/repo/ ./
@@ -35,7 +36,6 @@ deb https://isecureos.idevicecentral.com/repo/ ./
 deb https://johnzaro.github.io/cydia/ ./
 deb https://julio.hackyouriphone.org/ ./
 deb https://julioverne.github.io/ ./
-deb https://junesiphone.com/repo/ ./
 
 deb https://kurrt.com/repo/ ./
 
@@ -58,7 +58,7 @@ deb https://repo.linusyang.com/ ./
 deb https://repo.litten.love/ ./
 deb https://repo.p0358.net/ ./
 deb https://repo.rafferli.com/ ./
-deb https://repo.twickd.com/ ./
+# deb https://repo.twickd.com/ ./
 deb https://ryleyangus.com/repo/ ./
 
 deb https://samgisaninja.github.io/ ./
