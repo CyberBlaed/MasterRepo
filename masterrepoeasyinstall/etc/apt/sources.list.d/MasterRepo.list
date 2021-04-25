@@ -443,6 +443,7 @@ deb https://lily.toys/repo/ ./
 deb https://lineextender.github.io/ ./
 deb https://lint.github.io/repo/ ./
 deb https://repo.litten.love/ ./
+deb https://repo.quiprr.dev/litten/           #Litten Repo Mirror 25/04/2021
 deb https://lizynz.github.io/ ./
 deb https://luharepo.github.io/repo/ ./
 deb https://lumartti.github.io/ ./
