@@ -54,6 +54,7 @@ deb https://repo.anthopak.dev/ ./
 deb https://repo.basepack.co/ ./
 deb https://repo.cadoth.net/ ./
 deb https://repo.conorthedev.me/ ./
+deb https://repo.festival.tf/ ./
 deb https://repo.linusyang.com/ ./
 deb https://repo.litten.love/ ./
 deb https://repo.p0358.net/ ./
