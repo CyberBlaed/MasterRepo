@@ -575,6 +575,7 @@ deb https://repo.oskar.wirga.com/ ./
 deb https://repo.ouraigua.com/ ./
 deb https://repo.p0358.net/ ./
 # deb https://repo.packix.com/ ./				# (Repo to Avoid)
+deb https://repo.panties.moe/ ./
 deb https://repo.paz.yt/ ./
 deb https://repo.rafferli.com/ ./
 deb https://repo.rbtdigital.com/ ./
