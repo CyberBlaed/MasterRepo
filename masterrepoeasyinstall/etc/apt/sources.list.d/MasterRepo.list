@@ -35,6 +35,7 @@ deb http://coolbooter.com/ ./
 deb http://coolstar.org/publicrepo/ ./
 deb http://crystal.chrisgraphix.fr/ ./
 deb http://cydia.alexbeals.com/ ./
+deb http://cydia.avalon-studios.de/ ./
 deb http://cydia.chrisgraphix.fr/ ./
 deb http://cydia.clezz.com/ ./
 deb http://cydia.clezz.com/a/ ./
