@@ -509,6 +509,7 @@ deb https://OuOp.github.io/ ./
 deb https://overcookedfish.github.io/ ./
 deb https://p3t3rpan.github.io/ ./
 deb https://p3t3rpan.github.io/repo/ ./
+deb https://paisseon.github.io/ ./
 deb https://panjoel08.github.io/ ./
 deb https://paparajote.github.io/ ./
 deb https://parrotgeek.com/repo/ ./
