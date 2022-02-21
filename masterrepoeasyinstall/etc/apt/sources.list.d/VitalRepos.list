@@ -78,3 +78,7 @@ deb https://getzbra.com/repo/ ./
 # deb https://repo.getsileo.app/ ./
 # deb http://Cydia.iPhoneCake.com/ ./
 # deb https://repo.community/ ./
+
+#Cydia Incompatible
+deb https://havoc.app/ ./
+
